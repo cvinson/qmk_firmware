@@ -4,7 +4,7 @@
     },
     "split": {
         "serial": {
-            "pin": "D2"
+            "pin": "B2"
         },
         "transport": {
             "sync": {
